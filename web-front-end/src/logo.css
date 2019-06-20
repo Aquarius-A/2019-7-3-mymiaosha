@@ -1,0 +1,7 @@
+.logo-container {
+    text-align: center;
+}
+.logo-img{
+    height: 40vmin;
+    pointer-events: none;
+}
